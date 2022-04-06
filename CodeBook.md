@@ -1,7 +1,7 @@
 #This is the code book for the project
 
 ##How to get to the tinyData.txt:
-1. Data was downloaded from the provided link and stored in getcleandata folder of working directory of R Studio.
+1. Data was downloaded from the provided link and stored in -UCI HAR Dataset  folder of working directory of R Studio.
 2. The R script was written and executed.
 
 ## About R script
