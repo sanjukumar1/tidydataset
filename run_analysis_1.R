@@ -34,10 +34,10 @@ library(plyr)
         alltest <- cbind(y_test, subject_test, x_test)
         finaldataset <- rbind(alltrain, alltest)
         
-# Extracting only the measurements on the mean and sd for each measurement
+# Extracting only the measurements on the mean and sd  for each measurement
       
       # Reading column names
-        colNames <- colnames(finaldataset)
+        colNames <- colnames(finaldataset) 
         
       # Create vector for defining ID, mean, and sd
         mean_and_std <- (grepl("activityID", colNames) |

@@ -8,7 +8,7 @@ downloaded and stored in the getcleandata folder in the current workspace. run_a
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive variable names.
 5. tidyData file has been created
-
+ 
 tidyData.txt is the output of the final step
 
 
